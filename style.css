@@ -1,0 +1,38 @@
+.cherry-bomb-one-regular {
+  font-family: "Pacifico", cursive;
+  
+  
+}
+
+
+body{
+    justify-items: center;
+    background-color:#0d6efd;
+}
+.heading{
+    font-size:50px;
+    color: whitesmoke;
+}
+.box{
+    background-color:whitesmoke;
+    border-radius: 8%;
+    width: 400px;
+}
+
+
+.list-group-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.add{
+    background-color: whitesmoke;
+    height: 40px;
+    width:400px;
+    border-radius: 20%;
+}
+.submit{
+    background-color: #0d6efd;
+    color: whitesmoke;
+    
+}
